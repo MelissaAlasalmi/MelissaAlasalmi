@@ -3,8 +3,8 @@
 I'm an international content manager turned coder - currently studying programming independently and at Hive Helsinki. I’m working on projects that combine web app development and algorithms to build tools for positive, sustainable impact.
 
 ## Currently: 
-📚 learning the basics of web development with **HTML, CSS, and JavaScript**  
-📚 learning about modern web app development through Full Stack Open with **MongoDB, Express, React, and Node**  
+📚 learning web development with **HTML, CSS, and JavaScript**  
+📚 learning modern web app development with **MongoDB, Express, React, and Node**  
 📚 learning imperative programming with **algorithms projects in C**  
 
 ## Next up: 
