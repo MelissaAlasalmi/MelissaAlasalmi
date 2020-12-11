@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an international content manager turned coder - currently studying at Hive Helsinki. At Hive, we have a broad and flexible student-led curriculum. I’m pursuing a combination of WebDev and AI/Algorithms projects, and it's important to me that my work involves positive, sustainable impact.
+I'm an international content manager turned coder - currently studying programming independently and at Hive Helsinki. I’m pursuing a combination of WebDev and AI/Algorithms projects, and it's important to me that my work involves positive, sustainable impact.
 
 - 📚 Currently: building a personal site with **HTML, CSS, and JavaScript**
 - 🔭 Next up: building a web app that shows how balanced your actions are towards all the SDGs, based on your daily choices - using **HTML, CSS, JavaScript, PHP, and MySQL**
