@@ -8,7 +8,7 @@ I'm an international content manager turned coder - currently studying programmi
 📚 learning imperative programming with **algorithms projects in C**  
 
 ## Next up: 
-📣 **your stack here!** I'm currently looking for a junior developer position. If you think I might be a good fit for your team, I would be glad to spend a few months learning your tech before my first day at work!
+📣 **your stack here!** I'm currently looking for a junior developer position. If you think I might be a good fit for your team, I would be glad to spend a few months learning your tech before my first day at work!  
 🔭 pulling it all together to build a web app that shows how balanced your actions towards all the SDGs are based on your daily choices
 
 ## Ask me about: 
