@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an international content manager turned coder - currently studying programming independently and at Hive Helsinki. I’m working on projects that combine web app development and algorithms to build tools for positive, sustainable impact.
+I'm an international content manager turned coder - currently studying programming independently and at Hive Helsinki. I’m working on projects that combine web app development and algorithms to build tools that improve workflow or lead to positive, sustainable impact.
 
 ## Currently: 
 📚 learning web development with **HTML, CSS, and JavaScript**  
