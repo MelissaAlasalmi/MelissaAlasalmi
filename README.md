@@ -3,9 +3,9 @@
 I'm an international content manager turned coder - currently studying programming independently and at Hive Helsinki. I’m working on projects that combine web app development and algorithms to build tools that improve workflow or lead to positive, sustainable impact.
 
 ## Currently: 
-📚 learning modern web app development with **JavaScript, MongoDB, Express, React, and Node** with full stack open 
-📚 learning the **data science with Python** track on datacamp
-📚 learning imperative programming with **algorithms projects in C** at Hive
+📚 learning modern web app development with **JavaScript, MongoDB, Express, React, and Node** with full stack open  
+📚 learning the **data science with Python** track on datacamp  
+📚 learning imperative programming with **algorithms projects in C** at Hive  
 
 ## Next up: 
 📣 **your stack here!** I'm currently looking for a junior developer position and I'm willing to customize my learning path to suit your needs!  
