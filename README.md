@@ -25,6 +25,3 @@ I'm an international content manager turned coder - currently studying programmi
 📫 melissa.alasalmi@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelissaAlasalmi&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://komarev.com/ghpvc/?username=MelissaAlasalmi)
--> since 18.01.2021
