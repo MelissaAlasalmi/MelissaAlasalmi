@@ -8,7 +8,6 @@ I'm an international content manager turned coder - currently studying programmi
 📚 learning imperative programming with **algorithms projects in C** at Hive  
 
 ## Next up: 
-📣 **your stack here!** I'm currently looking for a junior developer position and I'm willing to customize my learning path to suit your needs!  
 🔭 pulling it all together to build a web app that shows how balanced your actions towards all the SDGs are based on your daily choices  
 
 ## Ask me about: 
