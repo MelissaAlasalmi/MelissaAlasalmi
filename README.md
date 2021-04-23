@@ -4,7 +4,7 @@ I'm an international content manager turned coder - currently studying programmi
 
 ## Currently: 
 📚 learning modern web app development with **JavaScript, MongoDB, Express, React, and Node** with full stack open  
-📚 learning the **data science with Python** track on datacamp  
+📚 learning the **data science with Python** track on Data Camp  
 📚 learning imperative programming with **algorithms projects in C** at Hive  
 
 ## Next up: 
