@@ -7,9 +7,6 @@ I'm an international content manager turned coder - currently studying programmi
 📚 learning the **data science with Python** track on Data Camp  
 📚 learning imperative programming with **algorithms projects in C** at Hive  
 
-## Next up: 
-🔭 pulling it all together to build a web app that shows how balanced your actions towards all the SDGs are based on your daily choices  
-
 ## Ask me about: 
 📝 digital content  
 📚 pedagogy  
